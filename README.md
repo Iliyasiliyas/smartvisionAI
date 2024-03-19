@@ -54,5 +54,4 @@ python -m flask run
 
 
 ## Support or Bugs
-<p>Just write me an E-Mail: j-m.kezmann@t-online.de</p>
-<p>Or contact we via <a class="facebook" href="https://www.facebook.com/janmarcel.kezmann">facebook</a>.</p>
+<p>Just write me an E-Mail: iliyasmohammedas@gmail.com</p>
