@@ -49,16 +49,8 @@ set FLASK_APP=app.py
 python -m flask run
 ```
 
-### Try it out!
 
-Open http://localhost:5000 and have fun. :smiley:
 
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/50111329/64039399-d1de1b00-cb5a-11e9-874d-bc2efbcc4512.png" width="600px" alt="">
-</p>
-<p align="center">
-    <img src="https://i.imgur.com/G1JcwEO.gif" width="600px" alt="">
-</p>
 
 
 ## Support or Bugs
